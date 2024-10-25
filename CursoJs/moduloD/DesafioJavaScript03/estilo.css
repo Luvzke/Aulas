@@ -1,0 +1,35 @@
+body {
+    background-color: rgb(41, 41, 173);
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+    color: white;
+    padding: 100px
+}
+
+header {
+    text-align: center;
+}
+
+section {
+    background-color: rgb(63, 63, 141);
+    border-radius: 15px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgb(40, 40, 102);
+    font-size: 25px;
+}
+
+section img {
+    width: 400px ;
+}
+
+div {
+    text-align: center;
+    padding: 8px;
+}
+
+footer {
+    text-align: center;
+    font-style: italic;
+}
