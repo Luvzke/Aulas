@@ -1,5 +1,5 @@
 var c = 1
-dor {
+do {
     console.log(`Passo ${c}`)
     c++
 } while (c <= 6)
